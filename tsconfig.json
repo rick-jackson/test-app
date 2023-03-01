@@ -21,7 +21,8 @@
       "@component/*": ["components/*"],
       "@entities/*": ["entities/*"],
       "@store/*": ["store/*"],
-      "@hooks/*": ["hooks/*"]
+      "@hooks/*": ["hooks/*"],
+      "@common/*": ["common/*"]
     }
   },
   "include": ["src"]
